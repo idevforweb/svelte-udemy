@@ -1,0 +1,33 @@
+[
+  {
+    "cuser": "63990537618e473534453550",
+    "name": "Ned Jones",
+    "coname": "Neds Carpentry",
+    "cotype": "Carpentry",
+    "phone": "1234567890",
+    "email": "Nj@njones.com",
+    "address": "Foxchase Dr, WeWahitchka, Fl",
+    "notes": "excellent for all trim work. per hour charge"
+  },
+  {
+    "cuser": "63d9b5ed8288a4d65a13514c",
+    "name": "Jehu Erdu",
+    "coname": "Erdu Electrical",
+    "cotype": "Electrical",
+    "phone": "1230567890",
+    "email": "je1902$gmail.com",
+    "address": "2 Serene Terrace, Sorento, Fl",
+    "notes": "$1200 panel, $50/fixture"
+  },
+  {
+    "cuser": "63990537618e473534453550",
+    "name": "Jose Hondra",
+    "coname": "Hondra llc",
+    "cotype": "Painting",
+    "phone": "1239567890",
+    "email": "josehondra@hondra.biz",
+    "address": "162 Castle St, Casselberry, Fl",
+    "notes": "$2000 exterior/interior, small stuff per hour"
+  }
+
+]
